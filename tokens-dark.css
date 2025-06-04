@@ -1,0 +1,20 @@
+#lx.lx-theme-dark {
+--color-accent: #ffc733;
+--color-accent-foreground: #18181a;
+--color-main: #40b3ff;
+--color-main-hover: #1a77ce;
+--color-main-foreground: #18181a;
+--color-main-hover-foreground: #ffffff;
+--color-data: #eeeeee;
+--color-chrome: #35373c;
+--color-background: #121417;
+--color-background-region: #27282d;
+--color-nav-background: #090a0c;
+--color-nav-foreground: #cccccc;
+--color-nav-chrome: #555555;
+--color-nav-hover-background: #131920;
+--color-nav-hover-foreground: #eeeeee;
+--color-button-disabled: #5d5d68;
+--color-button-disabled-background: #333339;
+--color-interactive: #4795fc;
+}
